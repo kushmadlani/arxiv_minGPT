@@ -10,6 +10,8 @@ We train a GPT on Machine Learning abstracts taken from Kaggle's [arXiv dataset]
 
 Above is a sampled abstract from the prompt 'This paper considers'.
 
+*Below is the README from the original minGPT repo:*
+
 ## minGPT
 
 ![mingpt](mingpt.jpg)
