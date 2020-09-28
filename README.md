@@ -1,5 +1,18 @@
+# arXiv-minGPT
 
-# minGPT
+![arxiv_mingpt](sampled_abstract)
+
+## Overview
+We train a GPT on Machine Learning abstracts taken from Kaggle's [arXiv dataset](https://www.kaggle.com/Cornell-University/arxiv). The model used is Andrej Karpathy's [minGPT](https://github.com/karpathy/minGPT), trained on a Google Colaboratory GPU. Two notebooks are as follows:
+
+1. A rudimentary EDA of the arXiv dataset
+2. Training the arXiv-GPT model  
+
+Above is a sampled abstract from the prompt 'This paper considers'.
+
+*Below is the contents of the original README.md from (minGPT)[]*
+
+## minGPT
 
 ![mingpt](mingpt.jpg)
 
